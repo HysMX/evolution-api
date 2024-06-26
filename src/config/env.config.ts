@@ -28,6 +28,8 @@ export type Log = {
   BAILEYS: LogBaileys;
 };
 
+console.log("hola diefguito")
+
 export type ProviderSession = {
   ENABLED: boolean;
   HOST: string;
